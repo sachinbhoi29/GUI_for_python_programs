@@ -2,7 +2,7 @@ import Tkinter as tk
 import tkSimpleDialog
 import tkMessageBox
 from tkinter import ttk
-import Executor as ex
+import Menu as ex
 import time
 
 LargeFont = ("Verdana", 12)
