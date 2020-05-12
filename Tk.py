@@ -275,7 +275,7 @@ class Project_7(tk.Frame):
 ########################################################### MOF MH PROJECT ############################################################
 def data_load_all_proj():
 	var0 = tkSimpleDialog.askstring("Data Load","Please enter the month and year(mm-yyyy): ")
-	tkMessageBox.showinfo("Message", "Please placce the master file in specific folder")
+	tkMessageBox.showinfo("Message", "Please place the master file in specific folder")
 	var1 = tkSimpleDialog.askstring("Data Load","Do you want to start loading master data? ")
 	tkMessageBox.showinfo("Message", "Please place the files in specific folder")
 	var2 = tkSimpleDialog.askstring("Data Load","Do you want to start loading data? (Y/N): ")

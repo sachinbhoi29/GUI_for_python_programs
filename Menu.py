@@ -8,15 +8,6 @@ def options():
           Welcome to the GUI interface of the python program
 **************************************************************'''
 
-    print("\n \tMAIN MENU FOR PROJECT:")
-    print("\t 1. Project1 ")    
-    print("\t 2. Project2")   
-    print("\t 3. Project3")   
-    print("\t 4. Project4")    
-    print("\t 5. Project5")     
-    print("\t 6. Project6")     
-    print("\t 7. Project7")
-    print("\t 8. Project8 ")
 
 
 
