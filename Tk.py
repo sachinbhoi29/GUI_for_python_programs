@@ -73,7 +73,7 @@ class Project_1(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project1", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
@@ -102,7 +102,7 @@ class Project_2(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project2", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
@@ -131,7 +131,7 @@ class Project_3(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project3", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
@@ -160,7 +160,7 @@ class Project_4(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project4", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
@@ -190,7 +190,7 @@ class Project_5(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project5", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
@@ -219,7 +219,7 @@ class Project_6(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project6", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
@@ -248,7 +248,7 @@ class Project_7(tk.Frame):
 	def __init__(self, parent, controller):
 
 		tk.Frame.__init__(self, parent)
-		label = tk.Label(self, text="MAIN MENU FOR MOF MH", font = LargeFont)
+		label = tk.Label(self, text="Project7", font = LargeFont)
 		label.pack(pady=10,padx=10)
 		button1 = tk.Button(self, text = "Data Load",
 			command = data_load_all_proj, width = 25, height = 1)
